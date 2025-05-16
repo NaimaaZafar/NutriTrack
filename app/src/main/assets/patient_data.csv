@@ -1,0 +1,6 @@
+patient_id,phone_number,food_quality_score,fruits_score,vegetables_score,whole_grains_score,processed_foods_score,persona
+12345,5551234567,78,85,75,80,30,Health Enthusiast
+23456,5552345678,65,70,65,60,35,Balance Seeker
+34567,5553456789,45,40,50,55,65,Convenience Diner
+45678,5554567890,82,90,85,75,20,Nutrition Conscious
+56789,5555678901,50,45,55,50,50,Moderate Eater 

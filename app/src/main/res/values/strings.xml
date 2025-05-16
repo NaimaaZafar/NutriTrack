@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NutriTrack</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome to NutriTrack</string>
+    <string name="welcome_subtitle">Track your food quality for better nutrition</string>
+    <string name="welcome_disclaimer">NutriTrack helps you monitor dietary habits. It is not a medical device and should not replace professional advice.</string>
+    <string name="welcome_login">Login</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="login_patient_id">Patient ID</string>
+    <string name="login_phone">Phone Number</string>
+    <string name="login_submit">Submit</string>
+    <string name="login_error">Invalid credentials. Please check your Patient ID and Phone Number.</string>
+    
+    <!-- Food Questionnaire -->
+    <string name="questionnaire_title">Food Intake Questionnaire</string>
+    <string name="questionnaire_subtitle">Please answer the following questions about your eating habits.</string>
+    <string name="questionnaire_fruits">How many servings of fruits do you eat daily?</string>
+    <string name="questionnaire_vegetables">How many servings of vegetables do you eat daily?</string>
+    <string name="questionnaire_whole_grains">How many servings of whole grains do you eat daily?</string>
+    <string name="questionnaire_processed_foods">How many servings of processed foods do you eat daily?</string>
+    <string name="questionnaire_submit">Submit</string>
+    
+    <!-- Persona Modal -->
+    <string name="persona_title">Your Nutrition Persona</string>
+    <string name="persona_close">Close</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Your Food Quality Score</string>
+    <string name="home_score_label">Food Quality Score</string>
+    <string name="home_view_insights">View Detailed Insights</string>
+    
+    <!-- Insights Screen -->
+    <string name="insights_title">Detailed Insights</string>
+    <string name="insights_fruits">Fruits</string>
+    <string name="insights_vegetables">Vegetables</string>
+    <string name="insights_whole_grains">Whole Grains</string>
+    <string name="insights_processed_foods">Processed Foods</string>
+    <string name="insights_back">Back to Home</string>
+</resources> 
